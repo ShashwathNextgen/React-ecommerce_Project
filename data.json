@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "title": "Nest Cam (indoor, wired)",
+        "price": 2599,
+        "description": "The redesigned Nest Cam (Indoor, wired) is the latest generation of the celebrated Dropcam—one of the first, and one of the best home security Cameras—and brings a number of improvements, including a lot of intelligence, such as on-device facial recognition and three hours of video storage.",
+        "category": "Security Cameras",
+        "image": "images/Nest Cam.webp",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "GOLENS X8 Premium Luxurious Design Smart Door Lock Digital",
+        "price": 12599,
+        "description": "we have designed a premium smart door lock that provides instant access to your front door from anywhere in the world. The smart keyless door lock uses a premium camera with night vision that allows you to watch whatâ€™s happening at the front door on your smartphone.",
+        "category": "Smart Locks",
+        "image": "images/Smart Door Lock.webp",
+        "rating": {
+            "rate": 3,
+            "count": 400
+        }
+    },
+    {
+        "id": 3,
+        "title": "Titan Neo Splash Quartz Multifunction Black Dial Stainless Steel Strap Watch for Men",
+        "price": 5000,
+        "description": "Embrace adventure with this sporty timepiece featuring a textured black dial, three subdials, and clean metal indices and hands. The sporty chocolate brown metal strap adds a rugged touch, making it perfect for your next trekking or adventurous activity. Pair it with outdoor gear and comfortable activewear for a stylish yet functional look.",
+        "category": "Smart Watches",
+        "image": "images/Men's Watch.webp",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 4,
+        "title": "Blink Outdoor 4",
+        "price": 2889,
+        "description": "The Blink Outdoor 4's case is weatherproof, so you can stick it either indoors or outside, and comes with a convenient mounting bracket.",
+        "category": "Security Cameras",
+        "image": "images/Blink Outdoor 4.webp",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 5,
+        "title": "Titan Crest with 3.63 cm AMOLED Display with AOD, Functional Crown, BT Calling, Premium Smartwatch with Blue Strap",
+        "price": 7995,
+        "description": "Titan Crest with 3.63 cm (1.43) AMOLED Display with AOD, 466 x 466 Pixel Resolution and Functional Crown. Advanced SingleSync BT Calling and 100+ Sports Modes. Enjoy Handy Features like Calculator, Calendar, In-Built Games, Music and Camera Control, Find Phone, Smart Notifications. Comprehensive Health Suite with Auto Stress Monitor, 24x7 HRM, SpO2 Monitor, Sleep Monitor with REM, Breathe Exercise.",
+        "category": "Smart Watches",
+        "image": "images/Women watch.webp",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        }
+    },
+    {
+        "id": 6,
+        "title": "Fastrack Magnus FX1 Luxury Metal Smartwatch with High Definition 3.5 cm UltraVU Display, SingleSync BT Calling",
+        "price": 2000,
+        "description": "Fastrack Magnus FX1 Luxury Metal Smartwatch with High Definition 3.5 cm UltraVU Display and SingleSync BT Calling. The product packs a Functional Crown and Premium Metal Design. Enjoy the best in class features like SingleSync BT Calling, 100+ Sports Modes with Sports Records, 100+ Watchfaces, Auto Stress Monitor, 24x7 HRM, SpO2 and Sleep Monitor, In-Built Games, AI Voice Assistant, Calendar, Calculator, Weather Display, Power Saving Mode",
+        "category": "Smart Watches",
+        "image": "images/Men's watch Fastrack.webp",
+        "rating": {
+            "rate": 3.9,
+            "count": 70
+        }
+    },
+    {
+        "id": 7,
+        "title": "EufyCam 3",
+        "price": 20968,
+        "description": "The EufyCam 3's 4K resolution was sharp and clear both day and night, and the massive battery and built-in solar panels meant we never had to recharge or replace the batteries, even after months of use. ",
+        "category": "Security Cameras",
+        "image": "images/EufyCam 3.webp",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 8,
+        "title": "D1 Pro Smart Door Lock",
+        "price": 13490,
+        "description": "Wifi Door Lock, Explore the convenience of WiFi door locks. Control access from anywhere, enjoy keyless entry, and enhance your home security with ease.",
+        "category": "Smart Locks",
+        "image": "images/Smart Home Lock.webp",
+        "rating": {
+            "rate": 1.9,
+            "count": 100
+        }
+    },
+    {
+        "id": 9,
+        "title": "Helett FingerPrint Digital Door Lock",
+        "price": 2985,
+        "description": "Helett HT210 Digital Door Lock with 50 Fingerprint Manual Key with Mortise Support USB Emergency Unlock|Suitable for 30mm-55mm Aluminium and Wooden Door fit with Right and Left Door handle(Black)",
+        "category": "Smart Locks",
+        "image": "images/FingerPrint Lock.webp",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        }
+    },
+    {
+        "id": 10,
+        "title": "Anker 737 Power Bank PowerCore 24K 24,000mAh 3-Port Portable Charger with 140W Output Smart Digital Display",
+        "price": 489,
+        "description": "Anker 737 Power Bank Brand Anker Connector Type USB Type C Cable Type USB Compatible Devices Laptop, Tablet Special Feature Fast Charging,Portable About this item High-Speed Ready: A maximum output of 140W and compatibility with Power Delivery 3.1 allows for high-speed charging to a wide range of devices including phones, tablets, and laptops. ",
+        "category": "Power Banks",
+        "image": "images/Anker Power bank.webp",
+        "rating": {
+            "rate": 2.9,
+            "count": 470
+        }
+    },
+    {
+        "id": 11,
+        "title": "boAt EnergyShroom PB400 20000 mAh Power Bank",
+        "price": 4499,
+        "description": "The EnergyShroom PB400 power bank packs a charging punch with its 20000mAh capacity. Enjoy 22.5W fast charging through 2 USB-A output ports and 1 Type-C two-way port. With compact 28mm width and 449g weight, it's perfect for charging on the move. With 12-layer Smart IC Protection, it ensures your device's safety against, battery overcharge, over-discharge, short circuits, and more.",
+        "category": "Power Banks",
+        "image": "images/Boat Power Bank.webp",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 12,
+        "title": "Xiaomi 10,000mAh Wireless Power Bank",
+        "price": 1999,
+        "description": " 22.5W fast charging(USB-A) Two way fast charging Fast Charging USB C input port Charge two devices simultaneously- wired and wireless",
+        "category": "Power Banks",
+        "image": "images/Xiaomi Power Bank.webp",
+        "rating": {
+            "rate": 4.8,
+            "count": 400
+        }
+    },
+    {
+        "id": 13,
+        "title": "Auslese Portable Power Bank Charger 100W PD 40000mAh 4 Ports Portable Power Bank ",
+        "price": 13650,
+        "description": "PD100W Fast Charging: With massive 40000 mAh battery capacity. Type C1 supports bidirectional 100W input and output. Equipped with 2 Type-C ports and 2 USB-A ports, it enables you to power up 4 devices simultaneously. ",
+        "category": "Power Banks",
+        "image": "images/Auslese Portable Power Bank.webp",
+        "rating": {
+            "rate": 2.9,
+            "count": 250
+        }
+    },
+    {
+        "id": 14,
+        "title": "50000 mAh 20W Power Bank For All phone fast charging portable battery, Black",
+        "price": 3334,
+        "description": "50000 mAh 20W power bank for All phone fast charging portable battery Buy Power Bank 50000mah Portable Charger. Mobile power supply supports QC and PD fast charging, supporting 20W, 18W USB C fast charging. Power bank with Built-In Cable & Phone Holder, Phone Charger Fast Charge for Most USB Devices",
+        "category": "Power Banks",
+        "image": "images/Fast Charging Power Bank.webp",
+        "rating": {
+            "rate": 2.2,
+            "count": 140
+        }
+    },
+    {
+        "id": 15,
+        "title": "smart lock video intercom TUYA/XHOME app handle lock smart home fingerprint smart digital lock",
+        "price": 10998,
+        "description": "Door Type Wood door, Steel door, Stainless Steel door, Aluminum door Network Wifi Model Number M1 Data Storage Options Memory Card Mortise lock size 24mm*240mm Material Zinc alloy body Fingerprint collection methods Semiconductor Password storage quantity 100 groups Fingerprint storage quantity 100 groups Administrator setting 10 users Normal users setting",
+        "category": "Smart Locks",
+        "image": "images/Smart Lock Video.webp",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    },
+    {
+        "id": 16,
+        "title": "boAt Wave Select Smartwatch with 1.69 Stress Monitoring and Music Control",
+        "price": 2000,
+        "description": "Maintain a healthy life with its heart-rate & SpO2 monitor and multiple sedentary & hydration alerts .Never miss a beat with a long-lasting 10 day battery life that keeps you connected to your world, always.",
+        "category": "Smart Watches",
+        "image": "images/Smart watch-boat.webp",
+        "rating": {
+            "rate": 2.9,
+            "count": 340
+        }
+    },
+    {
+        "id": 17,
+        "title": "High Performance And Ultra High Definition Smart Detection Bullet Cctv Camera",
+        "price": 1100,
+        "description": "The h provides crystal clear video and audio recording without any distortion. More power and guarantees functioning, when in doubt, on a cloudy or it can slide day. Have everyone perceives your house is looked at day in and day continually. This camera is boundlessly solid and won't rust.",
+        "category": "Security Cameras",
+        "image": "images/High Power Security camera.webp",
+        "rating": {
+            "rate": 3.8,
+            "count": 679
+        }
+    },
+    {
+        "id": 18,
+        "title": "Vidyut – for Indoors and Outdoors",
+        "price": 30311,
+        "description": "Vidyut is a stable, durable, and perfectly structured cinewhoop that features the dynamic capabilities at professional front, while being safe to fly.",
+        "category": "Drones",
+        "image": "images/Drone Vidyut.webp",
+        "rating": {
+            "rate": 4.7,
+            "count": 130
+        }
+    },
+    {
+        "id": 19,
+        "title": "BIR V2 – The Experience Drone",
+        "price": 6799,
+        "description": "BIR V2 is a micro drone which is specifically designed for educational and learning purposes, that can be flown indoors and outdoors, making it the perfect choice for those who are new to the world of drones",
+        "category": "Drones",
+        "image": "images/BIR-V2-The-Experience-Drone-insideFPV.webp",
+        "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    },
+    {
+        "id": 20,
+        "title": "Krishi - The Agricultural Drone",
+        "price": 815871,
+        "description": "The Krishi Agricultural Drone is designed for precision farming, featuring a lightweight build, generous payload capacity, and extended flight time for optimal coverage. It offers precision spraying technology to reduce waste, obstacle avoidance sensors for safe operation, and real-time monitoring for informed crop management decisions.",
+        "category": "Drones",
+        "image": "images/krishi-6.webp",
+        "rating": {
+            "rate": 3.6,
+            "count": 145
+        }
+    }
+]
